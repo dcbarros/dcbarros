@@ -4,7 +4,9 @@ I'm an enthusiast for programming and i'm keeping to improve my skills in that a
 
 Nowadays:
 I have good skills in: Python; HTML; CSS.
+
 I'm Learning: C#; Javascript.
+
 What would like to learning?
   - React;
   - .Net;
