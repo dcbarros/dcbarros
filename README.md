@@ -10,6 +10,7 @@ I'm Learning: C#; Javascript.
 What would like to learning?
   - React;
   - .Net;
+  - Flask;
 
 My experience:
   - Project: INOVA Talentos
