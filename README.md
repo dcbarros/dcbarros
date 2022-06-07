@@ -11,6 +11,7 @@ What would like to learning?
   - React;
   - .Net;
   - Flask;
+  - Django;
 
 My experience:
   - Project: INOVA Talentos
