@@ -8,8 +8,7 @@ I have good skills in: Python; HTML; CSS.
 I'm Learning: C#; Javascript and Java.
 
 What would like to learning?
-  - React;
-  - .Net;
+  - Java Spring Boot
   - Django;
 
 My experience in programming:
