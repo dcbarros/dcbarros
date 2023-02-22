@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Davison
+👋 Hi, I’m Davison
 
 I'm an enthusiast for programming and i'm keeping to improve my skills in that area all days :smile: 
 
