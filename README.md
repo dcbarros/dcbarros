@@ -51,7 +51,7 @@ Arthur Alves Rocha de Souza, Brunna Alves Lage Silva, Davison Cavalcante Barros,
  
 Technologies and skills used: C#(.Net) and Javascript(React Native). 
 
-# What i'm studing now?
+# What i'm studying now?
 
 - ELV-GUI: A GUI in python to calculate the liquid-vapor equilibrium for some two substances
 
