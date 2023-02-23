@@ -11,7 +11,7 @@ What would like to learning?
   - Java Spring Boot
   - Django;
 
-My experience in programming:
+# My experience in programming:
 
   - Project: INOVA Talentos
   
@@ -51,4 +51,18 @@ Arthur Alves Rocha de Souza, Brunna Alves Lage Silva, Davison Cavalcante Barros,
  
 Technologies and skills used: C#(.Net) and Javascript(React Native). 
 
+# What i'm studing now?
 
+- ELV-GUI: A GUI in python to calculate the liquid-vapor equilibrium for some two substances
+
+[ELV-GUI](https://github.com/dcbarros/ELV-GUI)
+
+- A React Native projects: A calculator and a Mined Field game
+
+[Calculadora](https://github.com/dcbarros/CalculadoraReactNative)
+
+[Campo Minado](https://github.com/dcbarros/MineField)
+
+- SpringBoot exercises: I'm create a API to create new users in a blog.
+
+[Blog](https://github.com/dcbarros/SpringBootAPIExercise)
