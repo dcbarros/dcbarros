@@ -14,6 +14,8 @@ I hold a degree in Systems Analysis and Development from PUC Minas and in Chemic
 </div>
 
 ### Projects I've been involved in
+- <a href="https://github.com/dcbarros/Inventory_Management_API"> Inventory Management Backend</a>
+- <a href="https://github.com/dcbarros/Inventory_Management_FrontEndr"> Inventory Management Frontend</a>
 - <a href="https://github.com/Formulario-Hospitalar/pmv-ads-2023-2-e5-formulario-hospitalar"> Eduardo de Menezes Hospital</a>
 - <a href="https://github.com/dcbarros/pmv-ads-2023-1-e4-proj-infra-t3-grupo5-planner"> Planner</a>
 - <a href="https://github.com/dcbarros/pmv-ads-2022-2-e3-proj-mov-t1-time-4-sala-virtual"> Sala Virtual</a>
@@ -23,6 +25,7 @@ I hold a degree in Systems Analysis and Development from PUC Minas and in Chemic
 
 ### Principal Learning Projects
 
+- <a href="https://github.com/dcbarros/agendamento-consultas"> Appointment Project - ADA</a>
 - <a href="https://github.com/dcbarros/Projeto_ADA_Agenda"> Phonebook Project - ADA</a>
 - <a href="https://github.com/dcbarros/Exerc-cio_POO_ADA"> OOP Exercise Project - ADA</a>
 - <a href="https://github.com/dcbarros/dio-projeto-banco-digitalOO"> Digital Bank Project - DIO</a>
