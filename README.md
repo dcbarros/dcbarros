@@ -1,61 +1,45 @@
-# Hello 👋, I’m Davison and welcome to my Github profile!
+## <img height="64" src="https://github.com/user-attachments/assets/725279bf-a16f-4209-9914-d2a8cf1c5eb3" alt="Java"/>  Olá, meu nome é Davison!
 
-## A little about myself
+<!Faça uma breve apresentação sobre você e a sua stack.
 
-I hold a degree in Systems Analysis and Development from PUC Minas and in Chemical Engineering from UFAL. I'm passionate about programming and currently transitioning careers.
+🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
-## I'm focus in that techs
+💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.>
 
-<div style="display= inline">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="65" height="65"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="65" height="65"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="65" height="65"/>
-</div>
+## 🚀 Minhas Skills
 
-### Projects I've been involved in
-- <a href="https://github.com/dcbarros/Inventory_Management_API"> Inventory Management Backend</a>
-- <a href="https://github.com/dcbarros/Inventory_Management_FrontEndr"> Inventory Management Frontend</a>
-- <a href="https://github.com/Formulario-Hospitalar/pmv-ads-2023-2-e5-formulario-hospitalar"> Eduardo de Menezes Hospital</a>
-- <a href="https://github.com/dcbarros/pmv-ads-2023-1-e4-proj-infra-t3-grupo5-planner"> Planner</a>
-- <a href="https://github.com/dcbarros/pmv-ads-2022-2-e3-proj-mov-t1-time-4-sala-virtual"> Sala Virtual</a>
-- <a href="https://github.com/dcbarros/pmv-ads-2022-1-e2-proj-int-t3-adotar-pets"> PetNow</a>
-- <a href="https://github.com/dcbarros/pmv-ads-2021-2-e1-proj-web-t7-ads_2021_02_e1_grupo_3_consultas-1"> AppPoint</a>
-- <a href="https://stt.ibp.org.br/eventos/2018/riooil2018/pdfs/Riooil2018_1574_201806131304fm_3810_00_formato.docx"> Inova Talentos Project</a>
+### Backend
+<code><img height="32" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Sprint"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="Nest"/></code>
 
-### Principal Learning Projects
+### Frontend
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 
-- <a href="https://github.com/dcbarros/agendamento-consultas"> Appointment Project - ADA</a>
-- <a href="https://github.com/dcbarros/Projeto_ADA_Agenda"> Phonebook Project - ADA</a>
-- <a href="https://github.com/dcbarros/Exerc-cio_POO_ADA"> OOP Exercise Project - ADA</a>
-- <a href="https://github.com/dcbarros/dio-projeto-banco-digitalOO"> Digital Bank Project - DIO</a>
-- <a href="https://github.com/dcbarros/dio-projeto-banco-digitalOO"> POS Project - Personal</a>
+### Banco de Dados
+<code><img height="32" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL"/></code>
 
-## I've recently worked with
-<div style="display= inline">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg" width="65" height="65"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="65" height="65"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="65" height="65"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="65" height="65"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="65" height="65"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="65" height="65"/>
-</div>  
+### QA
+<code><img height="32" src="https://selenium.dev/images/selenium_logo_square_green.png" alt="Selenium"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/junit-team/junit5/86465f4f491219ad0c0cf9c64eddca7b0edeb86f/assets/img/junit5-logo.svg" alt="Junit"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Testlink_logo.png" alt="Testlink"/></code>
+<code><img height="32" src="https://www.keytorc.com/wp-content/uploads/2014/08/appium.png" alt="Appium"/></code>
+<code><img height="32" src="https://jmeter.apache.org/images/jmeter.png" alt="JMeter"/></code>
 
-## What I like to do.
-- <img src="https://github.com/dcbarros/dcbarros/assets/19271240/cdd27b23-2b1f-40ab-a711-a915492ef15b" width="35" height="35"> Developing personal projects.
-- <img src="https://github.com/dcbarros/dcbarros/assets/19271240/e9589b03-38d8-4ee3-af17-f73da0ab7d7f" width="35" height="35"> Studying and improving my skills.
-- <img src="https://github.com/dcbarros/dcbarros/assets/19271240/0fb690e6-1091-43c6-8787-056b69de40e7" width="35" height="35"> Playing video games and board games.
+### Ferramentas
 
-## GitHub Statistics
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dcbarros&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dcbarros&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
+<code><img height="32" src="https://github.com/vscode-icons/vscode-icons/blob/master/images/logo.png" alt="VsCode"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg" alt="IntelliJ"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker"/></code>
 
-## Contact me
-<div style="display= inline">
-  <a href="https://www.linkedin.com/in/davison-cavalcante/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/davison.cavalcante/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-</div>
+
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
